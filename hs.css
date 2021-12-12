@@ -1,0 +1,19 @@
+nav{
+	color: #00aa00;
+}
+h1{
+	background-color: #111111;
+	color: #00aa00;
+}
+p{
+	background-color: #111111;
+	color: #00aa00;
+	font-size: x-large;
+}
+html{
+	background-image: url("mainMenuBackground.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}

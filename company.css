@@ -1,0 +1,44 @@
+h1{
+	background-color: #403b3c;
+	color:  #9418c9;
+}
+h2{
+	background-color: #403b3c;
+	color:  #9418c9;
+}
+p{
+	font-size: x-large;
+	color: snow;
+	background-color: #5c5456;
+}
+html{
+	background-repeat: no-repeat;
+	background-image: url("galaxy.jpg");
+}
+#events{
+	background-color: #5c5456;
+	font-size: x-large;
+	color: snow;
+}
+ul{
+	list-style-type:  circle;
+	padding: 0px;
+	margin: 0;
+	overflow: hidden;
+	background-color: #444444;
+}
+li a{
+	background-color:#222222;
+	float: center;
+	display:  inline-block;
+	color: white;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px solid black;
+	min-width: 60px;
+
+}
+li a:hover{
+	background-color: #333333;
+}
