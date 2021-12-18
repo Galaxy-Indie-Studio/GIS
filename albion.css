@@ -1,0 +1,13 @@
+html{
+	background-repeat: no-repeat;
+	background-image: url("albion.jpg");
+}
+h2{
+    background-color: #403b3c;
+	color:  #d17104;
+}
+p{
+	font-size: x-large;
+	color: rgb(214, 151, 34);
+	background-color: #5c5456;
+}

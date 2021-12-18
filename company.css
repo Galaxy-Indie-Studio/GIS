@@ -12,12 +12,17 @@ p{
 	background-color: #5c5456;
 }
 html{
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-image: url("galaxy.jpg");
 }
 
+#events{
+	background-color: #5c5456;
+	font-size: x-large;
+	color: snow;
+}
 ul{
-	list-style-type: circle;
+	list-style-type:  circle;
 	padding: 0px;
 	margin: 0;
 	overflow: hidden;
@@ -25,23 +30,16 @@ ul{
 }
 li a{
 	background-color:#222222;
-	float: left;
+	float: center;
 	display:  inline-block;
 	color: white;
 	padding: 10px 15px;
 	text-align: center;
 	text-decoration: none;
 	border-right: 1px solid black;
-	min-width: 125px;
+	min-width: 60px;
 
 }
 li a:hover{
 	background-color: #333333;
-}
-#goals{
-	text-align: center;
-	list-style-position: inside;
-	font-size: x-large;
-	color: snow;
-	background-color: #5c5456;
 }
